@@ -36,29 +36,31 @@ Here's a list of features that I want to test:
 
 ### Theme Building
 
-    - [ ] Test Several themes
-    - [ ] Build custom themes
-    - [ ] Build a custom projects page.
-      - [ ] Projects page should be able to display the full list of repos from github.
-      - [ ] Should be able to display data viz built with Matplotlib(Python). ???
-      - [ ] Display D3.js visualizations.
-      - [ ] Embded Jupyter Notebooks.
+- [ ] Test Several themes
+- [ ] Build custom themes
+
+#### Build a custom projects page.
+
+- [ ] Projects page should be able to display the full list of repos from github.
+- [ ] Should be able to display data viz built with Matplotlib(Python). ???
+- [ ] Display D3.js visualizations.
+- [ ] Embded Jupyter Notebooks.
 
 ### Newsletters
 
-    - [ ] Minimal Integrated Newsletter
-    - [ ] Mailer lite integration.
-    - [ ] Tiny Letter / Beehiiv Integration.
+- [ ] Minimal Integrated Newsletter
+- [ ] Mailer lite integration.
+- [ ] Tiny Letter / Beehiiv Integration.
 
 ### Evernote Integration
 
-        - [ ] Evernote Markdown Integration
-        - [ ] Integration with ./contents folder.
+- [ ] Evernote Markdown Integration
+- [ ] Integration with ./contents folder.
 
 ### Other
 
-    - [ ] Add a custom 404 page.
-    - [ ] Documentation for all the features.
+- [ ] Add a custom 404 page.
+- [ ] Documentation for all the features.
 
 ## License
 
